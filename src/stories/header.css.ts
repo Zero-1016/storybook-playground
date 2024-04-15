@@ -7,7 +7,6 @@ export const welcome = style({
 });
 
 export const wrapper = style({
-  fontFamily: "Nunito Sans , Helvetica Neue , Helvetica , Arial , sans-serif",
   borderBottom: "1px solid rgba(0,0,0,0.1)",
   padding: "15px 20px",
   display: "flex",

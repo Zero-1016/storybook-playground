@@ -29,7 +29,6 @@ export const tipWrapper = style({
 });
 
 globalStyle("section", {
-  fontFamily: "Nunito Sans , Helvetica Neue , Helvetica , Arial , sans-serif",
   fontSize: "14px",
   lineHeight: "24px",
   padding: "48px 20px",
