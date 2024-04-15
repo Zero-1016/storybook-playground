@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 next/local/font - test
 
 ```bash
-npm run dev
+npm run storybook
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
